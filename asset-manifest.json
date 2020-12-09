@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/theman49.github.io/face-recognition-brain/static/css/main.86cdd65b.chunk.css",
+    "main.js": "/theman49.github.io/face-recognition-brain/static/js/main.8dcab173.chunk.js",
+    "main.js.map": "/theman49.github.io/face-recognition-brain/static/js/main.8dcab173.chunk.js.map",
+    "runtime-main.js": "/theman49.github.io/face-recognition-brain/static/js/runtime-main.af1fe35b.js",
+    "runtime-main.js.map": "/theman49.github.io/face-recognition-brain/static/js/runtime-main.af1fe35b.js.map",
+    "static/css/2.31461e4f.chunk.css": "/theman49.github.io/face-recognition-brain/static/css/2.31461e4f.chunk.css",
+    "static/js/2.6f4f1234.chunk.js": "/theman49.github.io/face-recognition-brain/static/js/2.6f4f1234.chunk.js",
+    "static/js/2.6f4f1234.chunk.js.map": "/theman49.github.io/face-recognition-brain/static/js/2.6f4f1234.chunk.js.map",
+    "static/js/3.fedc3991.chunk.js": "/theman49.github.io/face-recognition-brain/static/js/3.fedc3991.chunk.js",
+    "static/js/3.fedc3991.chunk.js.map": "/theman49.github.io/face-recognition-brain/static/js/3.fedc3991.chunk.js.map",
+    "index.html": "/theman49.github.io/face-recognition-brain/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/theman49.github.io/face-recognition-brain/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.86cdd65b.chunk.css.map": "/theman49.github.io/face-recognition-brain/static/css/main.86cdd65b.chunk.css.map",
+    "static/js/2.6f4f1234.chunk.js.LICENSE.txt": "/theman49.github.io/face-recognition-brain/static/js/2.6f4f1234.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af1fe35b.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.6f4f1234.chunk.js",
+    "static/css/main.86cdd65b.chunk.css",
+    "static/js/main.8dcab173.chunk.js"
+  ]
+}
